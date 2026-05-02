@@ -176,4 +176,12 @@ In Stage 2, I developed a responsive React application to display notifications 
 - [ ] Dark mode toggle
 - [ ] Notification sound alerts
 
+OUTPUT I GOT 
+
+<img width="1913" height="1012" alt="image" src="https://github.com/user-attachments/assets/3cc431c5-9be5-48c1-8576-60a83b12f42c" />
+
+<img width="1892" height="1003" alt="image" src="https://github.com/user-attachments/assets/5db85f3d-ce8d-4e32-815c-b0d803f00bfe" />
+
+
+
 
