@@ -51,7 +51,9 @@ I prioritized notifications based on two factors:
 - Top 10 Priority Notifications UI
 - All Notifications UI
 
-(Screenshots attached in repository)
+![Stage 1 - Top 10 Priority Notifications](./image.png)
+
+![Stage 1 - All Notifications](./image-1.png)
 
 ---
 
@@ -164,6 +166,10 @@ In Stage 2, I developed a responsive React application to display notifications 
 - ✅ Filter functionality working (users can select types)
 - ✅ Pagination working (displays page X of Y)
 - ✅ Responsive UI view (mobile + desktop layouts)
+
+![Stage 2 - Filter View](./image-3.png)
+
+![Stage 2 - Pagination View](./image-2.png)
 
 ---
 
