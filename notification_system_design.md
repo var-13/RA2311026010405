@@ -194,15 +194,16 @@ In Stage 2, I developed a responsive React application to display notifications 
 - [ ] Notification sound alerts
 
 
+## Screenshots
 
-![alt text](./image.png)
+### Top 10 Notifications
+![Top 10](./image.png)
 
+### All Notifications
+![All](./image-1.png)
 
-![alt text](./image-1.png)
+### UI View
+![UI](./image-2.png)
 
-
-![alt text](./image-2.png)
-
-
-![alt text](./image-3.png)
-
+### Filter View
+![Filter](./image-3.png)
