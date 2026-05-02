@@ -46,17 +46,6 @@ I prioritized notifications based on two factors:
 
 ---
 
-## Screenshots
-
-- Top 10 Priority Notifications UI
-- All Notifications UI
-
-![Stage 1 - Top 10 Priority Notifications](./image.png)
-
-![Stage 1 - All Notifications](./image-1.png)
-
----
-
 ## Efficiency
 
 - Current complexity: **O(n log n)** due to sorting
@@ -161,18 +150,6 @@ In Stage 2, I developed a responsive React application to display notifications 
 
 ---
 
-## Screenshots (Stage 2)
-
-- ✅ Filter functionality working (users can select types)
-- ✅ Pagination working (displays page X of Y)
-- ✅ Responsive UI view (mobile + desktop layouts)
-
-![Stage 2 - Filter View](./image-3.png)
-
-![Stage 2 - Pagination View](./image-2.png)
-
----
-
 ## Files Modified/Created
 
 - `src/api/notifications.ts` - Updated with pagination params + mock data
@@ -200,16 +177,3 @@ In Stage 2, I developed a responsive React application to display notifications 
 - [ ] Notification sound alerts
 
 
-## Screenshots
-
-### Top 10 Notifications
-![Top 10](./image.png)
-
-### All Notifications
-![All](./image-1.png)
-
-### UI View
-![UI](./image-2.png)
-
-### Filter View
-![Filter](./image-3.png)
