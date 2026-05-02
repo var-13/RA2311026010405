@@ -178,7 +178,11 @@ In Stage 2, I developed a responsive React application to display notifications 
 
 
 <img width="1879" height="957" alt="image" src="https://github.com/user-attachments/assets/d2203bd2-0969-4be3-9f04-dd0f122edda3" />
+
+
 <img width="1396" height="905" alt="image" src="https://github.com/user-attachments/assets/703a531e-f0ea-4e8d-aeda-5c8994eb82b2" />
+
+
 <img width="1917" height="534" alt="image" src="https://github.com/user-attachments/assets/999fc955-b2f6-4f93-b18d-96917b7b3924" />
 
 
